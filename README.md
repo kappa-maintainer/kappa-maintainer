@@ -7,7 +7,7 @@
  - Mechanical Clothesline, simply Clotheslines with Mystical Mechanics API support. Should be used with Embers or similar
  - Hesperus, a Phosphor fork, fixes bugs
  - JustEnoughCodec, a NotEnoughCodec fork for Charset audio
- - Patchouli Resource Patch, fixes Patchouli > 1.12 not loading from resoure pack
+ - Patchouli Resource Patch, fixes Patchouli not loading from resoure pack on MC 1.13+
 ### WIP
  - CurseForge-modpack-convertor, convert any existing instance to CurseForge format
  - Custom Player Model fork, on 1.12
