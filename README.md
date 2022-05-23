@@ -11,6 +11,7 @@
 ### WIP
  - CurseForge-modpack-convertor, convert any existing instance to CurseForge format
  - Custom Player Model fork, on 1.12
+ - Touhou Little Maid lite with FakePlayer, aiming to automate everything
 ### Planned, all on 1.12.2
  - Advanced Repulsion System port
  - Sound Physic fork
