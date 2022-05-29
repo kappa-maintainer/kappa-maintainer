@@ -9,6 +9,7 @@
  - JustEnoughCodec, a NotEnoughCodec fork for Charset audio
  - Patchouli Resource Patch, fixes Patchouli not loading from resoure pack on MC 1.13+
 ### WIP
+ - Modern Splash, backporting high version loading screen
  - CurseForge-modpack-convertor, convert any existing instance to CurseForge format
  - Custom Player Model fork, on 1.12
  - Touhou Little Maid lite with FakePlayer, aiming to automate everything
