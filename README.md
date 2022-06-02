@@ -4,12 +4,12 @@
  - ForceASCIIFont-Backport, ForceASCIIFont on 1.7.10
  - KokoaLinux-Backport, KokoaLinux on 1.7.10. You can use IME under Linux with MC lower than 1.13!
  - WrapFix, fixed all typesetting problems involving CJK chars
+ - Modern Splash, backporting high version loading screen
  - Mechanical Clothesline, simply Clotheslines with Mystical Mechanics API support. Should be used with Embers or similar
  - Hesperus, a Phosphor fork, fixes bugs
  - JustEnoughCodec, a NotEnoughCodec fork for Charset audio
  - Patchouli Resource Patch, fixes Patchouli not loading from resoure pack on MC 1.13+
 ### WIP
- - Modern Splash, backporting high version loading screen
  - CurseForge-modpack-convertor, convert any existing instance to CurseForge format
  - Custom Player Model fork, on 1.12
  - Touhou Little Maid lite with FakePlayer, aiming to automate everything
