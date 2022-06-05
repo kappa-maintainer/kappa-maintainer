@@ -12,8 +12,9 @@
 ### WIP
  - CurseForge-modpack-convertor, convert any existing instance to CurseForge format
  - Custom Player Model fork, on 1.12
- - Touhou Little Maid lite with FakePlayer, aiming to automate everything
+ - Touhou Little Maid Lite with FakePlayer, aiming to automate everything
 ### Planned, all on 1.12.2
+ - [Control Engineering](https://www.curseforge.com/minecraft/mc-mods/control-engineering) backport
  - Advanced Repulsion System port
  - Sound Physic fork
  - Stellar Sky fork
