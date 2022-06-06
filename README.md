@@ -14,16 +14,16 @@
  - Custom Player Model fork, on 1.12
  - Touhou Little Maid Lite with FakePlayer, aiming to automate everything
 ### Planned, all on 1.12.2
- - [Control Engineering](https://www.curseforge.com/minecraft/mc-mods/control-engineering) backport
+ - [Control Engineering](https://www.curseforge.com/minecraft/mc-mods/control-engineering) backport to Industrial Wires
  - [Biome Particle Weather](https://www.curseforge.com/minecraft/mc-mods/biome-particle-weather) backport
  - [Clickable advancements](https://www.curseforge.com/minecraft/mc-mods/clickable-advancements) backport
- - Advanced Repulsion System port
- - Sound Physic fork
- - Stellar Sky fork
- - Photoptics fork
- - QCraft port
+ - [Advanced Repulsion System](https://forum.industrial-craft.net/thread/6874-ic2-exp-1-7-10-advanced-repulsion-systems/) port
+ - [Sound Physic](https://github.com/djpadbit/Sound-Physics/) fork
+ - [Stellar Sky](https://www.curseforge.com/minecraft/mc-mods/stellar-sky) fork
+ - [Photoptics](https://www.curseforge.com/minecraft/mc-mods/photoptics) fork
+ - [QCraft](https://github.com/TeacherGaming/qcraft-mod) port
  - Console Filter fork
- - Mariculture port
+ - [Mariculture](https://www.curseforge.com/minecraft/mc-mods/mariculture) port
  - A brand new Magic mod with GregTech-level compatibility
 
 <!--
