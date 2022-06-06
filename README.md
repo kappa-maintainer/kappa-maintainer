@@ -15,6 +15,8 @@
  - Touhou Little Maid Lite with FakePlayer, aiming to automate everything
 ### Planned, all on 1.12.2
  - [Control Engineering](https://www.curseforge.com/minecraft/mc-mods/control-engineering) backport
+ - [Biome Particle Weather](https://www.curseforge.com/minecraft/mc-mods/biome-particle-weather) backport
+ - [Clickable advancements](https://www.curseforge.com/minecraft/mc-mods/clickable-advancements) backport
  - Advanced Repulsion System port
  - Sound Physic fork
  - Stellar Sky fork
