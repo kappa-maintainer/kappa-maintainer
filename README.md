@@ -22,8 +22,9 @@
  - [Stellar Sky](https://www.curseforge.com/minecraft/mc-mods/stellar-sky) fork
  - [Photoptics](https://www.curseforge.com/minecraft/mc-mods/photoptics) fork
  - [QCraft](https://github.com/TeacherGaming/qcraft-mod) port
- - Console Filter fork
+ - Console Filter fork with coremod level filtering
  - [Mariculture](https://www.curseforge.com/minecraft/mc-mods/mariculture) port
+ - Better tree shapes. Dynamic Trees is not a good idea
  - A brand new Magic mod with GregTech-level compatibility
 
 <!--
