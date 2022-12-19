@@ -1,3 +1,4 @@
+## Chasing Mojang updates is a cursed idea
 ### Released
  - CPMC, adds compatibility to 1.12 Custom Player Model
  - Industrial Wires Classic, Industrial Wires on IC2C
