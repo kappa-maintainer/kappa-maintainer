@@ -10,11 +10,13 @@
  - Hesperus, a Phosphor fork, fixes bugs
  - JustEnoughCodec, a NotEnoughCodec fork for Charset audio
  - Patchouli Resource Patch, fixes Patchouli not loading from resoure pack on MC 1.13+
-### WIP
  - CurseForge-modpack-convertor, convert any existing instance to CurseForge format
+### WIP
  - Custom Player Model fork, on 1.12
  - Touhou Little Maid Lite with FakePlayer, aiming to automate everything
  - Console Filter fork with coremod level filtering
+### 1.7.10 stuff
+ - QwerTech fork, probably called AsdfTech
 ### Planned, all on 1.12.2
  - [Control Engineering](https://www.curseforge.com/minecraft/mc-mods/control-engineering) backport to Industrial Wires
  - [Biome Particle Weather](https://www.curseforge.com/minecraft/mc-mods/biome-particle-weather) backport
