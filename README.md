@@ -16,7 +16,7 @@
  - Touhou Little Maid Lite with FakePlayer, aiming to automate everything
  - Console Filter fork with coremod level filtering
 ### 1.7.10 stuff
- - QwerTech fork, probably called AsdfTech
+ - ~~QwerTech fork, probably called AsdfTech~~ Cancelled because can't custom ? button location of NEI and 3x3x3 crafting is a bad idea
 ### Planned, all on 1.12.2
  - [Control Engineering](https://www.curseforge.com/minecraft/mc-mods/control-engineering) backport to Industrial Wires
  - [Biome Particle Weather](https://www.curseforge.com/minecraft/mc-mods/biome-particle-weather) backport
