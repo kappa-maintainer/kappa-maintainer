@@ -14,13 +14,13 @@
 ### WIP
  - Custom Player Model fork, on 1.12
  - Touhou Little Maid Lite with FakePlayer, aiming to automate everything
- - Console Filter fork with coremod level filtering
+ - Console Filter fork with coremod level filtering (low priority)
+ - [Clickable advancements](https://www.curseforge.com/minecraft/mc-mods/clickable-advancements) backport
 ### 1.7.10 stuff
  - QwerTech fork, probably called AsdfTech
 ### Planned, all on 1.12.2
  - [Control Engineering](https://www.curseforge.com/minecraft/mc-mods/control-engineering) backport to Industrial Wires
  - [Biome Particle Weather](https://www.curseforge.com/minecraft/mc-mods/biome-particle-weather) backport
- - [Clickable advancements](https://www.curseforge.com/minecraft/mc-mods/clickable-advancements) backport
  - [Advanced Repulsion System](https://forum.industrial-craft.net/thread/6874-ic2-exp-1-7-10-advanced-repulsion-systems/) port
  - [Sound Physic](https://github.com/djpadbit/Sound-Physics/) fork
  - [Stellar Sky](https://www.curseforge.com/minecraft/mc-mods/stellar-sky) fork
