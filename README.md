@@ -11,11 +11,11 @@
  - JustEnoughCodec, a NotEnoughCodec fork for Charset audio
  - Patchouli Resource Patch, fixes Patchouli not loading from resoure pack on MC 1.13+
  - CurseForge-modpack-convertor, convert any existing instance to CurseForge format
+ - [Clickable advancements](https://www.curseforge.com/minecraft/mc-mods/clickable-advancements) backport
 ### WIP
  - Custom Player Model fork, on 1.12
  - Touhou Little Maid Lite with FakePlayer, aiming to automate everything
  - Console Filter fork with coremod level filtering (low priority)
- - [Clickable advancements](https://www.curseforge.com/minecraft/mc-mods/clickable-advancements) backport
 ### 1.7.10 stuff
  - QwerTech fork, probably called AsdfTech
 ### Planned, all on 1.12.2
