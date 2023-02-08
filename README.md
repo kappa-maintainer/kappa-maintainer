@@ -15,20 +15,23 @@
 ### WIP
  - Custom Player Model fork, on 1.12
  - Touhou Little Maid Lite with FakePlayer, aiming to automate everything
+ - [QCraft](https://github.com/TeacherGaming/qcraft-mod) port
+ - [Advanced Repulsion System](https://forum.industrial-craft.net/thread/6874-ic2-exp-1-7-10-advanced-repulsion-systems/) port
  - Console Filter fork with coremod level filtering (low priority)
-### 1.7.10 stuff
+### 1.7.10 WIP
  - QwerTech fork, probably called AsdfTech
-### Planned, all on 1.12.2
+### 1.12.2 Planned
  - [Control Engineering](https://www.curseforge.com/minecraft/mc-mods/control-engineering) backport to Industrial Wires
  - [Biome Particle Weather](https://www.curseforge.com/minecraft/mc-mods/biome-particle-weather) backport
- - [Advanced Repulsion System](https://forum.industrial-craft.net/thread/6874-ic2-exp-1-7-10-advanced-repulsion-systems/) port
  - [Sound Physic](https://github.com/djpadbit/Sound-Physics/) fork
  - [Stellar Sky](https://www.curseforge.com/minecraft/mc-mods/stellar-sky) fork
  - [Photoptics](https://www.curseforge.com/minecraft/mc-mods/photoptics) fork
- - [QCraft](https://github.com/TeacherGaming/qcraft-mod) port
  - [Mariculture](https://www.curseforge.com/minecraft/mc-mods/mariculture) port
+ - Redstone Control continued
  - Better tree shapes. Dynamic Trees is not a good idea
  - A brand new Magic mod with GregTech-level compatibility
+### 1.16+ Planned
+ - Redstone Control 2 continued
 
 <!--
 **kappa-maintainer/kappa-maintainer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
