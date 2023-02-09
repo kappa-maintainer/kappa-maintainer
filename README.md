@@ -32,6 +32,7 @@
  - A brand new Magic mod with GregTech-level compatibility
 ### 1.16+ Planned
  - Redstone Control 2 continued
+ - Chop Down continued
 
 <!--
 **kappa-maintainer/kappa-maintainer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
