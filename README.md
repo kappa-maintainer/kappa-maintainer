@@ -27,6 +27,7 @@
  - [Stellar Sky](https://www.curseforge.com/minecraft/mc-mods/stellar-sky) fork
  - [Photoptics](https://www.curseforge.com/minecraft/mc-mods/photoptics) fork
  - [Mariculture](https://www.curseforge.com/minecraft/mc-mods/mariculture) port
+ - Adaptive Tooltips port
  - Redstone Control continued
  - Better tree shapes. Dynamic Trees is not a good idea
  - A brand new Magic mod with GregTech-level compatibility
