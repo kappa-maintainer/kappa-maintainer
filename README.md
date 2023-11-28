@@ -12,6 +12,8 @@
  - Patchouli Resource Patch, fixes Patchouli not loading from resoure pack on MC 1.13+
  - CurseForge-modpack-convertor, convert any existing instance to CurseForge format
  - [Clickable advancements](https://www.curseforge.com/minecraft/mc-mods/clickable-advancements) backport, called Advancement Locator
+ - Up and Down an All Around fork, still trying to figure out its ASM
+ - Crossroad Legacy, will port newer version features back later
 ### WIP
  - ***Cleanroom***, a 1.12.2 Forge fork with everything you want
  - Custom Player Model fork, on 1.12
@@ -28,6 +30,7 @@
  - [Stellar Sky](https://www.curseforge.com/minecraft/mc-mods/stellar-sky) fork
  - [Photoptics](https://www.curseforge.com/minecraft/mc-mods/photoptics) fork
  - [Mariculture](https://www.curseforge.com/minecraft/mc-mods/mariculture) port
+ - IC2C addon backporting features from 1.19+
  - Bewitchment continued
  - Adaptive Tooltips port
  - HEXCraft port
