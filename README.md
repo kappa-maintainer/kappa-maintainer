@@ -11,15 +11,16 @@
  - JustEnoughCodec, a NotEnoughCodec fork for Charset audio
  - Patchouli Resource Patch, fixes Patchouli not loading from resoure pack on MC 1.13+
  - CurseForge-modpack-convertor, convert any existing instance to CurseForge format
- - [Clickable advancements](https://www.curseforge.com/minecraft/mc-mods/clickable-advancements) backport
+ - [Clickable advancements](https://www.curseforge.com/minecraft/mc-mods/clickable-advancements) backport, called Advancement Locator
 ### WIP
+ - ***Cleanroom***, a 1.12.2 Forge fork with everything you want
  - Custom Player Model fork, on 1.12
  - Touhou Little Maid Lite with FakePlayer, aiming to automate everything
  - [QCraft](https://github.com/TeacherGaming/qcraft-mod) port
  - [Advanced Repulsion System](https://forum.industrial-craft.net/thread/6874-ic2-exp-1-7-10-advanced-repulsion-systems/) port
  - Console Filter fork with coremod level filtering (low priority)
 ### 1.7.10 WIP
- - QwerTech fork, probably called AsdfTech
+ - QwerTech fork, probably called AsdfTech (on hold due to NEI confused me)
 ### 1.12.2 Planned
  - [Control Engineering](https://www.curseforge.com/minecraft/mc-mods/control-engineering) backport to Industrial Wires
  - [Biome Particle Weather](https://www.curseforge.com/minecraft/mc-mods/biome-particle-weather) backport
@@ -27,13 +28,14 @@
  - [Stellar Sky](https://www.curseforge.com/minecraft/mc-mods/stellar-sky) fork
  - [Photoptics](https://www.curseforge.com/minecraft/mc-mods/photoptics) fork
  - [Mariculture](https://www.curseforge.com/minecraft/mc-mods/mariculture) port
+ - Bewitchment continued
  - Adaptive Tooltips port
  - HEXCraft port
  - EE3?
  - Redstone Control continued
  - Better tree shapes. Dynamic Trees is not a good idea
  - A brand new Magic mod with GregTech-level compatibility
-### 1.16+ Planned
+### 1.16+ Planned (or not?)
  - Redstone Control 2 continued
  - Chop Down continued
 
