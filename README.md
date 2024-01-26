@@ -1,4 +1,5 @@
 ## Chasing Mojang updates is a cursed idea
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/G2G6TQH08)
 ### Released
  - CPMC, adds compatibility to 1.12 Custom Player Model
  - Industrial Wires Classic, Industrial Wires on IC2C
